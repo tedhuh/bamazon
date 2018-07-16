@@ -3,6 +3,7 @@ This app is designed to log an entry using the MYSQL database.
 
 
 Getting Started
+
 Install npm packages inquirer and mysql. 
 
 Prerequisites
